@@ -33,14 +33,14 @@
 ---
   📝	Certifications: 
   
-  - Entry-level Python Programmer from the Python Institute https://verify.openedg.org/?id=P8aO.UyCC.KfFQ
+  - Entry-level Python Programmer from the Python Institute <a href="https://verify.openedg.org/?id=P8aO.UyCC.KfFQ">here</a>
   
   with more on the way!
   
   ---
   :art: Projects:
-  - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <br> https://github.com/alexanderfou/GoogleAnalyticsSpoof
-  - remade Minesweeper in Java for a school project (2022) <br> https://github.com/alexanderfou/Minesweeper
+  - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <a href="https://github.com/alexanderfou/GoogleAnalyticsSpoof">here </a> 
+  - remade Minesweeper in Java for a school project (2022) <a href="https://github.com/alexanderfou/Minesweeper">here </a> 
   
 </div>
 <!--
