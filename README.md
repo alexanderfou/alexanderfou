@@ -13,6 +13,12 @@
 
 <div id="about" align="left">
   
+  ---
+  
+  
+  About Me
+  
+  
   - 🎓 I'm a senior at Hunter College High School looking to learn more about computer science and engineering.
   - :canada: I will be majoring in Computer Engineering at McGill University
   
@@ -30,6 +36,11 @@
   - Entry-level Python Programmer from the Python Institute https://verify.openedg.org/?id=P8aO.UyCC.KfFQ
   
   with more on the way!
+  
+  ---
+  :art: Projects:
+  - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <br> https://github.com/alexanderfou/GoogleAnalyticsSpoof
+  - remade Minesweeper in Java for a school project (2022) <br> https://github.com/alexanderfou/Minesweeper
   
 </div>
 <!--
