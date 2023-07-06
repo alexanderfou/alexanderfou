@@ -19,7 +19,7 @@
   About Me
   
   
-  - 🎓 I'm a senior at Hunter College High School looking to learn more about computer science and engineering.
+  - 🎓 Graduated from Hunter College High School in June of 2023
   - :canada: I will be majoring in Computer Engineering at McGill University
   
   
