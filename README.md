@@ -20,7 +20,7 @@
   
   
   - 🎓 Graduated from Hunter College High School in June of 2023
-  - :canada: I will be majoring in Computer Engineering at McGill University
+  - :canada: Majoring in Computer Engineering at McGill University
   
   
 ---
