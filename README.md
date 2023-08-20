@@ -2,7 +2,7 @@
   <p>
     Hi there, I'm Alexander Fou!
     
-    📍 New York, NY, USA
+    📍 Montréal, QC, Canada
   </p>
 </div>
 <div id="badges" align="center">
@@ -40,7 +40,8 @@
   ---
   :art: Projects:
   - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <a href="https://github.com/alexanderfou/GoogleAnalyticsSpoof">here </a> 
-  - remade Minesweeper in Java for a school project (2022) <a href="https://github.com/alexanderfou/Minesweeper">here </a> 
+  - remade Minesweeper in Java for a school project (2022) <a href="https://github.com/alexanderfou/Minesweeper">here </a>
+  - Wrote an extension to add tab-to-search functionality to chromium-based browsers (2023) <a href="https://github.com/alexanderfou/tab-to-search">here </a>
   
 </div>
 <!--
