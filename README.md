@@ -46,8 +46,9 @@
   
   ---
   :art: Projects:
-  - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <a href="https://github.com/alexanderfou/GoogleAnalyticsSpoof">here </a> 
+  - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <a href="https://github.com/alexanderfou/GoogleAnalyticsSpoof">here </a>, a video demonstration can be found <a href="https://www.youtube.com/watch?v=qVPOUflLhLo">here </a>
   - remade Minesweeper in Java for a school project (2022) <a href="https://github.com/alexanderfou/Minesweeper">here </a>
+  - Analyzed data on the effects of various factors on Life Expectancy using R (2023) <a href="https://github.com/alexanderfou/AnalysisOfLifeExpectancy">here </a>
   - Wrote an extension to add tab-to-search functionality to chromium-based browsers (2023) <a href="https://github.com/alexanderfou/tab-to-search">here </a>
   - published a casual physics-based mobile game on the google play store (2023) <a href="https://play.google.com/store/apps/details?id=com.AlexanderFou.MagnetWhirlGame">here </a>
   
