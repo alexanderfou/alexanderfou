@@ -24,10 +24,18 @@
   
 ---
   
-:hammer_and_wrench: Familiar with...
+:hammer_and_wrench: Experienced with...
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+---
+
+:hammer_and_pick: Familiar with...
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt = "MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt = "R" width="40" height="40"/>&nbsp;
+
  
 ---
   📝	Certifications: 
@@ -41,6 +49,7 @@
   - wrote a simple script in Python to create up to 15,000 fake users for websites using Google Analytics 3 (2020) <a href="https://github.com/alexanderfou/GoogleAnalyticsSpoof">here </a> 
   - remade Minesweeper in Java for a school project (2022) <a href="https://github.com/alexanderfou/Minesweeper">here </a>
   - Wrote an extension to add tab-to-search functionality to chromium-based browsers (2023) <a href="https://github.com/alexanderfou/tab-to-search">here </a>
+  - published a casual physics-based mobile game on the google play store (2023) <a href="https://play.google.com/store/apps/details?id=com.AlexanderFou.MagnetWhirlGame">here </a>
   
 </div>
 <!--
