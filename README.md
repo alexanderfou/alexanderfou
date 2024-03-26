@@ -2,7 +2,7 @@
   <p>
     Hi there, I'm Alexander Fou!
     
-    📍 Montréal, QC, Canada
+    📍 New York, NY
   </p>
 </div>
 <div id="badges" align="center">
@@ -20,7 +20,7 @@
   
   - :canada: Majoring in Computer Engineering at McGill University
   - 🎓 Graduated from Hunter College High School in June of 2023
-  
+  - Incoming Software Engineering Intern @ Bloomberg during the summer of 2024
   
 ---
   
