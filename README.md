@@ -2,7 +2,7 @@
   <p>
     Hi there, I'm Alexander Fou!
     
-    📍 New York, NY
+    📍   New York, NY
   </p>
 </div>
 <div id="badges" align="center">
