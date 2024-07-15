@@ -20,7 +20,7 @@
   
   - :canada: Majoring in Computer Engineering at McGill University
   - 🎓 Graduated from Hunter College High School in June of 2023
-  - Incoming Software Engineering Intern @ Bloomberg during the summer of 2024
+  - Software Engineering Intern @ Bloomberg
   
 ---
   
